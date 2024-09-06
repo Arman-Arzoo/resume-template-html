@@ -1,5 +1,5 @@
 #project link:
- https://github.com/Arman-Arzoo/resume-template-html
+https://resume-template-html.vercel.app/
 #Run project 
 simple open index.html in any browser
 
